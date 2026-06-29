@@ -31,3 +31,19 @@ The leader is "built by developers, not gallerists." Artelier's 7-stage inquiry�
 ## I5 — The trial must deliver value in days, which makes the calculator + upload bugs an existential marketing problem.
 **From:** P1, plus E-013, E-014
 Users tolerate price doubt only when locked in; they churn on stagnation; switchers arrive at a breaking point with low patience. Artelier's 30-day card-required trial only converts if week one produces a "holy shit, that's done" moment. A broken calculator or a silent bulk-upload failure during the trial doesn't just annoy — it *confirms the buyer's fear that switching is more pain than the spreadsheet.* The bug fixes are therefore upstream of the entire funnel. No public asset promising effortless onboarding can ship until they're true.
+
+---
+
+## SECOND PASS additions
+
+## I6 — In France, don't teach a new method — automate the one the market already trusts.
+**From:** P9
+"Calcul au point" and "cote d'artiste" are already the accepted, gallery-taught way French artists price. Artelier's engine *is* this method, systematized. French copy and UI should use these exact terms, not a translated generic pitch. Localization here is a moat amplifier, not a translation job — it turns "learn our new tool" into "finally, the method you already use, done for you."
+
+## I7 — The French e-invoicing mandate is the launch wedge AND a hard architecture decision.
+**From:** P10
+Treat 09/2026 as a marketing wedge ("be ready without thinking about it") only if the product is actually compliant. Emitting a PDF is non-compliant for French B2B by 09/2027. So the *real* next decision is whether Artelier integrates with / hands off to a Plateforme Agréée (PDP). Put the PDP question into the pending expert-comptable/avocat consult now — it gates whether the French invoicing story is true.
+
+## I8 — For the manager ICP, lead with settlement, match roster table-stakes, win on pricing + ownership.
+**From:** P8 (+ pass-1 P4)
+The manager headline is "pay every artist correctly, automatically." Per-seat access and per-artist consignment are table stakes (ArtCloud already has them) — build to match, don't market as novel. Differentiate where incumbents can't follow: the deterministic pricing engine and the founder-owned, 15%-back, anti-extraction story (sharper now that the closest manager competitor sits inside the Artlogic PE roll-up).

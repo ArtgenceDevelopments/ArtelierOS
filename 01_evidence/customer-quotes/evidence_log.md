@@ -239,3 +239,109 @@ Verbatim fragments are short and exact; full text lives at the linked source.
 > "I initially gave it 5 stars ... using the app for more than 2 years and have to downgrade to 2"
 
 **Reveals:** Long-term churn is driven by *stagnation* — promised features that never ship. Retention isn't won at signup; it's won by visible, continuous improvement. A user-facing changelog/roadmap could be a retention feature for Artelier, not just internal hygiene — it signals "we're still building for you."
+
+---
+
+## SECOND PASS — Manager ICP + French Market (E-031, E-032, E-035, E-036, E-037, E-040)
+
+---
+
+### Evidence #E-031
+**Name:** "35 artists under contract" — no POS handles the consignment split
+**Evidence Type:** behavioral_proxy
+**Source Type:** Public Communities
+**Evidence Format:** quote
+**Link:** https://community.squareup.com/t5/Questions-How-To/How-to-Track-Commissions-in-an-Art-Gallery/m-p/66087/highlight/true
+**Source Date:** 2023-04-14
+**Theme Buckets:** pain | workaround
+**Journey Phase:** evaluate
+**Confidence:** medium
+
+> Small gallery, 65/35 artist split, "roster of 25–30 artists"; mainstream POS won't track artist commissions, so they cobbled together a consignment-shop tool ("ROSE"). "We currently have 35 artists under contract."
+
+**Reveals:** The manager ICP's core unmet need, stated plainly: roster-wide commission/consignment accounting that mainstream tools ignore. Managers resort to consignment-shop software never built for art. Artelier's per-artist Settlement waterfall is the native answer — "pay every artist correctly, automatically" is the manager headline. The pain is real, specific, and currently solved by duct tape.
+
+---
+
+### Evidence #E-032
+**Name:** "WHO sets the market value? Who is doing the pricing?"
+**Evidence Type:** quote
+**Source Type:** Public Communities
+**Evidence Format:** quote
+**Link:** https://reddotblog.com/ask-a-gallery-owner-why-do-galleries-get-such-high-commissions-21/
+**Source Date:** 2024-11-27
+**Theme Buckets:** objection | pain
+**Journey Phase:** consider
+**Confidence:** low
+
+> A gallery owner, mid-debate on commissions: "WHO sets the market value of the art? Who is doing the pricing?" Artists in the thread: "artists need to be more independent."
+
+**Reveals:** Pricing authority is the unresolved question even among gallerists, and artists increasingly want independence from gallery commissions. Pricing + independence is the through-line uniting the solo and manager ICPs — the solo wants to price without a gallery; the manager wants to price across a roster. Both point back to the engine. Reinforces pricing-led positioning across the whole spectrum.
+
+---
+
+### Evidence #E-035
+**Name:** French pricing anxiety: "un véritable casse-tête"
+**Evidence Type:** quote
+**Source Type:** Founder Content
+**Evidence Format:** quote
+**Link:** https://www.artfordplus.com/comment-fixer-le-prix-de-ses-oeuvres-methodes-concretes-et-conseils-dartistes
+**Source Date:** 2026-01-14
+**Theme Buckets:** pain | desire
+**Journey Phase:** aware
+**Confidence:** high
+
+> "Arriver à fixer un prix « juste » pour son propre travail est un véritable casse-tête." Related French sources frame it as "Combien vaut mon travail ?" and "un moment de solitude… face à un mur."
+
+**Reveals:** French pricing anxiety is identical to the anglophone pattern — arguably more acute and more emotionally framed. The #1 category pain translates directly into French. The French funnel can lead with the same pricing hook, in French, at the same emotional register. No need to invent a different French message — the wound is the same.
+
+---
+
+### Evidence #E-036
+**Name:** "le calcul au point" + "la cote d'artiste" — France's native deterministic pricing
+**Evidence Type:** quote
+**Source Type:** Founder Content
+**Evidence Format:** quote
+**Link:** https://www.amylee.fr/calculer-prix-oeuvre-par-point/
+**Source Date:** 2026-01-11
+**Theme Buckets:** process | desire
+**Journey Phase:** consider
+**Confidence:** high
+
+> French method, taught widely: "le prix se base selon le format" and "la cote d'artiste se calcule selon votre ancienneté, le nombre d'expositions." A debut artist starts at ~10–25 €/point, oil rated above acrylic; the coefficient rises with career.
+
+**Reveals:** The single biggest localization insight of the whole research. France already has a standardized, market-accepted, size-and-career-based pricing method — "calcul au point" / "cote d'artiste" — used by galleries, cotation bodies, and dealers. It maps almost 1:1 onto Artelier's engine (size × career coefficient). In France, Artelier should not explain a new method; it should **automate the method the market already trusts**, speaking "calcul au point" and "cote d'artiste" natively. Near-frictionless adoption path and a defensibility amplifier in France.
+
+---
+
+### Evidence #E-037
+**Name:** French objection to formula pricing: "très basique et illogique"
+**Evidence Type:** quote
+**Source Type:** Public Communities
+**Evidence Format:** quote
+**Link:** https://www.art-totale.com/comment-fixer-le-prix-dune-oeuvre/
+**Source Date:** 2025-09-28
+**Theme Buckets:** objection
+**Journey Phase:** evaluate
+**Confidence:** medium
+
+> Reader comment rejecting point-based pricing: "je trouve votre système de calcul très basique et illogique… la minutie d'une œuvre est importante… vous découragez les jeunes peintres."
+
+**Reveals:** The counter-voice exists and must be pre-empted: some artists reject formula pricing as ignoring craft, emotion, and aesthetic quality ("c'est injuste"). Artelier should position the engine as a *defensible floor and starting point*, not a cage — "le calcul fixe le plancher; votre cote et votre marché font le reste." Transparency + adjustability is the answer to the "too mechanical / unfair" objection. Applies in English too (E-010), but the French resistance is more explicit.
+
+---
+
+### Evidence #E-040
+**Name:** French emerging-artist resource runs a WhatsApp channel, not a newsletter
+**Evidence Type:** behavioral_proxy
+**Source Type:** Public Communities
+**Evidence Format:** quote
+**Link:** https://www.artistes-emergents.fr/problematiques-d-artistes/se-vendre-en-tant-qu-artiste/2653070_comment-fixer-le-prix-de-vos-oeuvres-d-art
+**Source Date:** undated page (captured 2026-06-29)
+**Theme Buckets:** behavior
+**Journey Phase:** aware
+**Confidence:** low
+
+> A French emerging-artist site: "Pas de Newsletters ici… mais une chaîne d'actu WhatsApp. Toutes les infos et conseils pour artistes directement sur votre téléphone, sans spam."
+
+**Reveals:** A French resource targeting emerging artists deliberately chooses WhatsApp over email/newsletter — corroborating Marques's WhatsApp ingestion instinct for this segment. The emerging/French cohort lives on WhatsApp, not in inboxes. Reinforces the (shelved) WhatsApp pipeline as a French-market priority post-launch, and suggests WhatsApp as an acquisition/retention channel, not just ingestion.

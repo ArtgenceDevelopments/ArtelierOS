@@ -4,20 +4,20 @@
 
 **Target workspace:** `artelieros` (the Artelier Brandhorse OS instance — currently empty)
 **Action:** `create_evidence` (one call per item)
-**Items:** 30 (E-001–E-030), all sourced, all validated
+**Items:** 40 (E-001–E-040; pass 1 + pass 2), all sourced, all validated
 **Status on create:** `draft` (the OS creates evidence in draft pending human review — a second review gate after import)
 
 ## Validation result
 
-All 30 rows in `master_evidence.csv` map to the canonical `create_evidence` schema with **0 validation errors**. Every enum value is within the allowed set.
+All 40 rows in `master_evidence.csv` map to the canonical `create_evidence` schema with **0 validation errors**. Every enum value is within the allowed set.
 
 | Field | Distribution |
 |---|---|
-| evidence_type | quote ×14, competitive_proof ×10, market_signal ×6 |
-| evidence_format | quote ×14, document ×9, metric ×7 |
-| journey_phase | aware ×10, use ×6, evaluate ×6, consider ×4, adopt ×2, churn_risk ×2 |
-| visibility_status | creatable ×15, internal_only ×15 |
-| confidence | high ×12, medium ×15, low ×3 |
+| evidence_type | quote ×18, competitive_proof ×12, market_signal ×8, behavioral_proxy ×2 |
+| evidence_format | quote ×20, document ×13, metric ×7 |
+| journey_phase | aware ×13, evaluate ×10, use ×6, consider ×6, adopt ×3, churn_risk ×2 |
+| visibility_status | internal_only ×21, creatable ×19 |
+| confidence | high ×17, medium ×18, low ×5 |
 
 ## Field mapping (CSV → create_evidence)
 
@@ -37,7 +37,7 @@ All 30 rows in `master_evidence.csv` map to the canonical `create_evidence` sche
 | `confidence` | `confidence` | validated against enum |
 | `status` | — | hard-set to `draft` |
 
-The fully mapped, ready-to-run payload is in **`import_manifest.json`** (30 objects).
+The fully mapped, ready-to-run payload is in **`import_manifest.json`** (40 objects; pass 1 + pass 2 merged).
 
 ## Enrichment available (optional, before run)
 
@@ -47,7 +47,7 @@ The fully mapped, ready-to-run payload is in **`import_manifest.json`** (30 obje
 ## To run (after ratification)
 
 1. Confirm the `artelieros` workspace is the correct destination.
-2. For each of the 30 objects in `import_manifest.json`, call `create_evidence` with those fields.
+2. For each of the 40 objects in `import_manifest.json`, call `create_evidence` with those fields.
 3. All land as `draft` → review inside the OS → approve.
 4. Spot-check 3–5 items against the live source URLs before approving in bulk.
 

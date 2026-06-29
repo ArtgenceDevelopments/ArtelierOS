@@ -43,3 +43,19 @@ Consolidation is the most common praise for the incumbent, who owns the "afforda
 ## P7 — Transaction volume is decoupling from art value, favoring per-seat tooling on direct/social channels.
 **Evidence:** E-027, E-028, E-030
 Value fell while transaction count rose; the action is at lower price points; online and social (Instagram/WeChat/DM) channels are structurally elevated. **Implication:** a per-artist-seat model is insulated from art-market value swings and aligned with where selling actually happens. Instrument the DM; don't build a marketplace.
+
+---
+
+## SECOND PASS additions
+
+## P8 — Managers need roster-wide settlement; mainstream tools ignore it, so they cobble workarounds.
+**Evidence:** E-031, E-033, E-034
+The manager's distinguishing pain is paying a roster correctly — per-artist commission/consignment splits, auto-calculated payouts, per-seat access. Mainstream POS ignores it (managers resort to consignment-shop tools), while the closest art-native competitor (ArtCloud, now Artlogic-owned) has built exactly this. **Implication:** roster settlement is the manager wedge AND a competitive table-stakes bar — Artelier must match the workflow and win on pricing + ownership.
+
+## P9 — France already trusts a native deterministic pricing method that maps onto Artelier's engine.
+**Evidence:** E-036, E-035, E-037
+"Le calcul au point" + "la cote d'artiste" is a standardized, gallery-taught, size-and-career pricing system — the same logic Artelier's engine runs, but in the market's own vocabulary. The pricing anxiety is identical to anglophone (E-035); the formula objection is more explicit (E-037). **Implication:** in France, adoption friction is low *if* Artelier speaks the existing language instead of inventing one.
+
+## P10 — A dated French legal forcing function is about to push the whole ICP off spreadsheets.
+**Evidence:** E-038, E-039
+The e-invoicing reform (receive 09/2026, emit 09/2027) legally compels every small VAT-subject artist/manager onto compliant tooling, with PDFs explicitly disqualified. **Implication:** the core "change adoption" friction is being solved by the state on Artelier's timeline — but only for tools that emit compliant structured invoices through an approved platform, which Artelier currently does not.

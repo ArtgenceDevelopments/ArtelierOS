@@ -103,3 +103,41 @@ Every metric traces to a primary or near-primary source (Art Basel / UBS / Arts 
 > Online sales were $10.5B in 2024 — still 76% above 2019 — and purchasing channels (Instagram, WeChat) are opening up for collectors.
 
 **Reveals:** Direct/social selling is structurally elevated post-pandemic — validating Marques's own Facebook-DM sales motion and the (shelved) WhatsApp ingestion pipeline. The buyer increasingly transacts in the DM. Artelier's job is to put a transaction backbone *behind* the channels artists already use — instrument the DM, don't try to replace it with a marketplace.
+
+---
+
+## SECOND PASS — French market forcing function (E-038, E-039)
+
+---
+
+### Evidence #E-038
+**Name:** French e-invoicing reform: a dated, legally-mandated forcing function
+**Evidence Type:** market_signal
+**Source Type:** Market Analysis
+**Evidence Format:** document
+**Link:** https://www.economie.gouv.fr/tout-savoir-sur-la-facturation-electronique-pour-les-entreprises
+**Source Date:** 2026-02-26
+**Theme Buckets:** behavior | risk
+**Journey Phase:** aware
+**Confidence:** high
+
+> From 1 Sep 2026, every VAT-subject entity in France (incl. artistes-auteurs with a SIRET, even in franchise de base) must be able to RECEIVE structured e-invoices via an approved platform; from 1 Sep 2027, micro/TPE/PME must EMIT them (Factur-X/UBL/CII). A PDF emailed is no longer a valid invoice; penalty up to 15 €/invoice. Corroborated by URSSAF and CAAP (artist-author body).
+
+**Reveals:** The single biggest French tailwind. The state is forcing every French artist and small manager off spreadsheets and emailed PDFs and onto compliant invoicing tooling — on Artelier's exact launch timeline, and aimed at exactly its ICP (small VAT-subject structures). The "change adoption" friction that is Artelier's core problem is being *solved by law*. The French marketing hook writes itself: "Septembre 2026 arrive. Soyez prêt — sans y penser." This reframes Artelier from a nice-to-have into a compliance necessity in France.
+
+---
+
+### Evidence #E-039
+**Name:** Compliance trap: a PDF is NOT a compliant e-invoice; Artelier is not a PDP
+**Evidence Type:** market_signal
+**Source Type:** Market Analysis
+**Evidence Format:** document
+**Link:** https://entreprendre.service-public.gouv.fr/actualites/A15683
+**Source Date:** 2026-02-27
+**Theme Buckets:** risk | friction
+**Journey Phase:** adopt
+**Confidence:** high
+
+> Same reform, flip side: B2B invoices must be emitted in a structured format (Factur-X/UBL/CII) THROUGH a state-approved platform (Plateforme Agréée / PDP). A scanned, PDF, or emailed invoice is explicitly NOT compliant.
+
+**Reveals:** The opportunity and the risk are the same fact. Artelier's current invoice pipeline outputs a PDF (PDFShift) — which becomes *non-compliant for French B2B emission* by Sep 2027. Artelier must decide whether to integrate with / hand off to an approved PDP, or risk shipping an invoicing feature that is illegal for French B2B sales. This MUST be inside the pending expert-comptable/avocat consultation scope. Selling "compliant French invoicing" without PDP integration would be a false promise — exactly the kind of claim the brand can't make and keep.

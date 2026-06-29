@@ -171,3 +171,41 @@ No screenshots were fabricated. Entries are logged as `document` (page/review te
 > 4.9/5 across 106 verified reviews; 89% of reviewers are small businesses; heaviest use in Arts & Crafts (45%) and Fine Art (20%). Captured 2026-06-11.
 
 **Reveals:** Artwork Archive is entrenched and *loved* in Artelier's exact small-business artist segment. A head-on feature war on its turf is a loss. Artelier wins by category re-definition — a business operating system with a pricing engine — not by being a better inventory app. Respect the moat; route around it.
+
+---
+
+## SECOND PASS — Manager ICP competitors (E-033, E-034)
+
+---
+
+### Evidence #E-033
+**Name:** ArtCloud is built around a "stable of artists" with connected accounts
+**Evidence Type:** competitive_proof
+**Source Type:** Competitive Messaging
+**Evidence Format:** document
+**Link:** https://artcloud.com/manager-for-galleries
+**Source Date:** 2026-06-29
+**Theme Buckets:** substitute
+**Journey Phase:** evaluate
+**Confidence:** high
+
+> ArtCloud's manager product: connected artist accounts, artists submit work for review into inventory, per-artist/per-work consignment percentages, consignment payments "calculated automatically from invoice history," reporting on "top selling artists." Captured 2026-06-29.
+
+**Reveals:** ArtCloud (acquired by Artlogic in July 2025) is the closest competitor on the manager workflow — it already does connected artist accounts, per-artist consignment terms, and auto-calculated payouts. This is the *feature bar* for the manager ICP, and it now sits inside the PE roll-up Artelier positions against. Artelier must match the workflow (settlement waterfall, per-artist seats) and differentiate on the pricing engine + founder-owned/anti-extraction story — not on whether roster accounting exists, because it does.
+
+---
+
+### Evidence #E-034
+**Name:** Multi-user team access is table stakes for managers across incumbents
+**Evidence Type:** competitive_proof
+**Source Type:** Competitive Messaging
+**Evidence Format:** document
+**Link:** https://www.artgalleria.com/for-artists
+**Source Date:** 2026-06-29
+**Theme Buckets:** substitute
+**Journey Phase:** evaluate
+**Confidence:** medium
+
+> Art Galleria: "Do you work with other people? You can invite them to access your account and suspend access when required… share only specific artworks or collections." Managed Artwork and ArtCloud offer equivalent consigned-out agreements and staff permissions. Captured 2026-06-29.
+
+**Reveals:** Granular multi-user/per-seat access (manager sees the whole roster; each artist sees only their own work) is an *expected* manager feature across incumbents — table stakes, not a differentiator. Artelier's per-artist seat model must expose this cleanly or it fails the manager's first evaluation. Build it to match; don't market it as novel.

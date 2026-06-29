@@ -37,3 +37,15 @@ The category is full of refund refusals, surprise charges, and "misleading offer
 ## A6 — Don't write artist-voice copy where investor-voice is required (and vice versa).
 **Evidence:** Pattern P2/P3 tension + known recurring failure mode
 The buyer wants identity + empowerment + "what do I charge." The investor wants economics + moat + segment math. The evidence supports *both* audiences — but with different framings of the same facts (e.g., "price like a pro" for artists vs. "deterministic pricing engine = defensible moat" for investors). Conflating them is the recurring copy failure. Keep the two registers strictly separate.
+
+---
+
+## SECOND PASS additions
+
+## A7 — Don't promise "compliant French invoicing" while emitting PDFs.
+**Evidence:** E-039
+The reform makes a PDF a non-compliant invoice for B2B. Claiming French e-invoicing compliance without integrating a Plateforme Agréée would be a promise the product can't keep — exactly the kind of claim the brand doctrine forbids. Either ship the PDP integration or describe the feature honestly as "invoice drafting + handoff," not "compliant e-invoicing."
+
+## A8 — Don't translate the pricing message literally into French while ignoring "calcul au point."
+**Evidence:** E-036, E-037
+A generic French translation of an anglophone pitch throws away the single biggest French adoption lever. French artists don't need to be taught that size and career drive price — they already price "au point" against their "cote." Skip that vocabulary and Artelier reads as a foreign tool reinventing a wheel the market already turns.
